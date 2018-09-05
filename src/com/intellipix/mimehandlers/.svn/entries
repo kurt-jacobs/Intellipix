@@ -1,0 +1,41 @@
+8
+
+dir
+62
+http://droidphoto-svn.cvsdude.com/intelliphoto/IntellipixProj/src/com/intellipix/mimehandlers
+http://droidphoto-svn.cvsdude.com/intelliphoto
+
+
+
+2008-10-10T17:24:09.677956Z
+13
+jakemaui
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d3dd209c-98c2-4dfa-b5a7-63f9da2cbce9
+
+MimeHandler.java
+file
+
+
+
+
+2008-10-10T17:17:33.849321Z
+d7cc693df76f149be31989a36eb602d6
+2008-10-10T17:24:09.677956Z
+13
+jakemaui
+has-props
+

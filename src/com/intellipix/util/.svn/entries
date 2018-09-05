@@ -1,0 +1,70 @@
+8
+
+dir
+62
+http://droidphoto-svn.cvsdude.com/intelliphoto/IntellipixProj/src/com/intellipix/util
+http://droidphoto-svn.cvsdude.com/intelliphoto
+
+
+
+2008-10-15T01:07:58.456816Z
+60
+jakemaui
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d3dd209c-98c2-4dfa-b5a7-63f9da2cbce9
+
+FileUtils.java
+file
+
+
+
+
+2008-10-05T15:04:15.531250Z
+b4c4e134f6073dc848d75109fe1417db
+2008-10-08T01:01:51.047523Z
+2
+jakemaui
+has-props
+
+location
+dir
+
+PrintUtil.java
+file
+
+
+
+
+2008-10-04T19:04:42.296875Z
+22a5763c113cbb50101924650126d065
+2008-10-08T01:01:51.047523Z
+2
+jakemaui
+has-props
+
+BufferUtils.java
+file
+63
+
+
+
+2008-10-15T02:35:36.906250Z
+ebc4d20f646a4efa2335f38448130a62
+2008-10-15T04:40:13.539751Z
+63
+jakemaui
+has-props
+

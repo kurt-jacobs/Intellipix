@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.intellipix">
+	<uses-permission
+		android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission
+		android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+	<application android:icon="@drawable/icon"
+		android:label="@string/app_name">
+		<uses-library android:name="com.google.android.maps" />
+		<activity android:name="IntellipixMap"
+			android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="intent_category.INTELLIPIX_APP" />
+			</intent-filter>
+		</activity>
+
+		<activity android:name="OpeningActivity"
+			android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category
+					android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+		<activity android:name="FileSelectForReview"
+		    android:label="@string/select_photo"
+			android:theme="@style/Theme.Translucent">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="intent_category.INTELLIPIX_APP" />
+			</intent-filter>
+		</activity>
+
+	   <activity android:name="FileSelectForDelete"
+		    android:label="@string/delete_file"
+			android:theme="@style/Theme.Translucent">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="intent_category.INTELLIPIX_APP" />
+			</intent-filter>
+		</activity>
+ 
+        <activity android:name="PhotoCapture"
+            android:label="@string/take_picture"
+            android:theme="@style/Theme.Translucent">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="intent_category.INTELLIPIX_APP" />
+            </intent-filter>
+        </activity>
+
+	 
+		<activity android:name="AssembleReview"
+			android:label="@string/assemble_review">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="intent_category.INTELLIPIX_APP" />
+			</intent-filter>
+		</activity>
+
+		<activity android:name="InventorySelect"
+		    android:label="@string/inventory_select"
+			android:theme="@style/Theme.Translucent">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="intent_category.INTELLIPIX_APP" />
+			</intent-filter>
+		</activity>
+
+        <activity android:name="SaveFileEntry"
+			android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="intent_category.INTELLIPIX_APP" />
+			</intent-filter>
+		</activity>
+		
+		<activity android:name="AddContent"
+			android:label="@string/add_content">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="intent_category.INTELLIPIX_APP" />
+			</intent-filter>
+		</activity>
+
+       <activity android:name="MapEntry"
+			android:label="@string/add_map">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="intent_category.INTELLIPIX_APP" />
+			</intent-filter>
+		</activity>
+ 
+       <activity android:name="CaptionEntry"
+			android:label="@string/add_caption">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="intent_category.INTELLIPIX_APP" />
+			</intent-filter>
+		</activity>
+		
+		<activity android:name="RemoveContent"
+			android:label="@string/remove_content">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="intent_category.INTELLIPIX_APP" />
+			</intent-filter>
+		</activity>
+
+	</application>
+
+
+</manifest>

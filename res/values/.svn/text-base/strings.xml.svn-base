@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Intellipix</string>
+    <string name="load_photo">Load Photo</string>
+    
+    
+<string name="default_image">/sdcard/melissa_theuriau.png</string>
+<string name="record">Record</string>
+<string name="assemble_review">Assemble and Review</string>
+
+<string name="activity_translucent">test</string>
+<string name="inventory">Inventory</string>
+
+<string name="no_compatable_files_found">No compatable files found</string>
+<string name="alert_dialog_ok">OK</string>
+<string name="loading_files">Loading Files...</string>
+<string name="audio_mime_type">Audio</string>
+<string name="map">Map</string>
+<string name="map_mime_type">Map</string>
+
+<string name="caption_mime_type">Caption</string>
+<string name="no_brain">This photo does not currently have a brain. (No Inventory)</string>
+<string name="remove_content">Remove Content (Select item to remove)</string>
+<string name="map_entry_usage">Please enter floating point values. (http://geocoder.us)</string>
+<string name="add_content">Add Content</string>
+<string name="add_caption">Add Caption</string>
+<string name="add_map">Add Map</string>
+<string name="take_picture">Take Picture</string>
+<string name="select_photo">Select Photo</string>
+<string name="inventory_select">Select Item For Review</string>
+
+<string name="delete_file">Delete File</string>
+<string name="date_mime_type">Date</string>
+</resources>

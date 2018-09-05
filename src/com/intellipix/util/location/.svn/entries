@@ -1,0 +1,41 @@
+8
+
+dir
+62
+http://droidphoto-svn.cvsdude.com/intelliphoto/IntellipixProj/src/com/intellipix/util/location
+http://droidphoto-svn.cvsdude.com/intelliphoto
+
+
+
+2008-10-15T00:20:42.571399Z
+59
+mshnayderman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d3dd209c-98c2-4dfa-b5a7-63f9da2cbce9
+
+LocationManagerHelper.java
+file
+
+
+
+
+2008-10-15T02:05:46.156250Z
+fcae2ce038ff923925a298e85f323796
+2008-10-15T00:20:42.571399Z
+59
+mshnayderman
+has-props
+

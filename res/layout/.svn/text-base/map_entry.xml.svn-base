@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/map_entry_linear"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical" android:layout_marginLeft="0px"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<ImageView android:id="@+id/makesmarter"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:src="@drawable/makesmarter" android:layout_marginTop="10px"
+		android:layout_marginBottom="10px"
+		android:layout_gravity="center_horizontal">
+	</ImageView>
+	<TextView android:id="@+id/latitude_label"
+		android:layout_width="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:layout_height="wrap_content" android:text="Latitude">
+	</TextView>
+	<EditText android:id="@+id/latedittext" android:layout_width="240px"
+		android:layout_height="wrap_content" android:text=""
+		android:layout_gravity="center_horizontal" android:textSize="18sp">
+	</EditText>
+	<TextView android:id="@+id/longitude_label"
+		android:layout_width="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:layout_height="wrap_content" android:text="Longitude">
+	</TextView>
+	<EditText android:id="@+id/longedittext"
+		android:layout_width="240px" android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal" android:text=""
+		android:textSize="18sp">
+	</EditText>
+	
+	<LinearLayout android:id="@+id/okcancel_layout"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="25px"
+		android:layout_gravity="center_horizontal">
+	<ImageButton android:id="@+id/map_entry_preview"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:layout_marginTop="0px"  
+		android:layout_gravity="center_horizontal"
+		android:src="@drawable/preview">
+	</ImageButton>
+	</LinearLayout>
+	
+	<LinearLayout android:id="@+id/okcancel_layout"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="10px"
+		android:layout_gravity="center_horizontal">
+		<ImageButton android:id="@+id/cancel_button"
+		 	android:layout_width="wrap_content"
+		    android:layout_height="wrap_content" 
+		    android:text=""
+			android:src="@drawable/cancel">
+		</ImageButton>
+		<ImageButton android:id="@+id/ok_button"
+	     	android:layout_width="wrap_content"
+		    android:layout_height="wrap_content" 
+		    android:text=""
+			 
+			android:src="@drawable/ok">
+		</ImageButton>
+	</LinearLayout>
+ 
+</LinearLayout>

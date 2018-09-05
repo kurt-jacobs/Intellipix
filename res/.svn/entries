@@ -1,0 +1,40 @@
+8
+
+dir
+62
+http://droidphoto-svn.cvsdude.com/intelliphoto/IntellipixProj/res
+http://droidphoto-svn.cvsdude.com/intelliphoto
+
+
+
+2008-10-15T00:09:28.411974Z
+58
+jakemaui
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d3dd209c-98c2-4dfa-b5a7-63f9da2cbce9
+
+values
+dir
+
+drawable
+dir
+
+raw
+dir
+
+layout
+dir
+

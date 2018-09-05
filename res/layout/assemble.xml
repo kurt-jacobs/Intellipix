@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/main_top_level_layout"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<LinearLayout android:orientation="horizontal"
+	    android:background="@drawable/filled_box"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:layout_marginTop="2px"
+		android:layout_gravity="left">
+
+		<ImageButton android:id="@+id/inventory_folder"
+			android:layout_width="64dip" android:layout_height="64dip"
+			android:layout_marginTop="0px" android:layout_gravity="left"
+			android:layout_marginLeft="10px"
+			android:layout_marginRight="16px"
+			android:src="@drawable/inventory64x64">
+		</ImageButton>
+
+		<ImageButton android:id="@+id/add_content"
+			android:layout_width="64dip" android:layout_height="64dip"
+			android:layout_marginTop="0px" android:layout_gravity="left"
+			 android:layout_marginRight="16px"
+			android:src="@drawable/add_content64x64">
+		</ImageButton>
+
+		<ImageButton android:id="@+id/remove_content"
+			android:layout_width="64dip" android:layout_height="64dip"
+			android:layout_marginTop="0px" android:layout_gravity="left"
+			 android:layout_marginRight="16px"
+			android:src="@drawable/remove_content64x64">
+		</ImageButton>
+		
+		<ImageButton android:id="@+id/save"
+			android:layout_width="64dip" android:layout_height="64dip"
+			android:layout_marginTop="0px"  android:layout_marginRight="10px"
+			android:layout_gravity="left"
+			android:src="@drawable/save64x64">
+		</ImageButton>
+	</LinearLayout>
+
+	<ImageView android:id="@+id/imagePreview"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerVertical="true"
+		android:layout_centerHorizontal="true">
+	</ImageView>
+
+</LinearLayout>

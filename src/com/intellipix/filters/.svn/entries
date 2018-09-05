@@ -1,0 +1,29 @@
+8
+
+dir
+62
+http://droidphoto-svn.cvsdude.com/intelliphoto/IntellipixProj/src/com/intellipix/filters
+http://droidphoto-svn.cvsdude.com/intelliphoto
+
+
+
+2008-10-08T01:01:51.047523Z
+2
+jakemaui
+
+
+svn:special svn:externals svn:needs-lock
+
+PNGFileFilter.java
+file
+
+
+
+
+2008-10-05T00:38:29.312500Z
+3150b58b354e6d930fc9a256425556cb
+2008-10-08T01:01:51.047523Z
+2
+jakemaui
+has-props
+

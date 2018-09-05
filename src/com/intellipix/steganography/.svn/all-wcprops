@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/intelliphoto/!svn/ver/62/IntellipixProj/src/com/intellipix/steganography
+END
+DataOverlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/intelliphoto/!svn/ver/2/IntellipixProj/src/com/intellipix/steganography/DataOverlayer.java
+END
+TestHarness.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/intelliphoto/!svn/ver/2/IntellipixProj/src/com/intellipix/steganography/TestHarness.java
+END
+StringDataOverlayAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/intelliphoto/!svn/ver/2/IntellipixProj/src/com/intellipix/steganography/StringDataOverlayAdapter.java
+END
+ByteAccumulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/intelliphoto/!svn/ver/2/IntellipixProj/src/com/intellipix/steganography/ByteAccumulator.java
+END
+DataOverlayAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/intelliphoto/!svn/ver/63/IntellipixProj/src/com/intellipix/steganography/DataOverlayAdapterFactory.java
+END
+DataExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/intelliphoto/!svn/ver/29/IntellipixProj/src/com/intellipix/steganography/DataExtractor.java
+END
+LocationDataOverlayAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/intelliphoto/!svn/ver/9/IntellipixProj/src/com/intellipix/steganography/LocationDataOverlayAdapter.java
+END
+BufferConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/intelliphoto/!svn/ver/2/IntellipixProj/src/com/intellipix/steganography/BufferConstants.java
+END
+ByteArrayDataItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/intelliphoto/!svn/ver/2/IntellipixProj/src/com/intellipix/steganography/ByteArrayDataItem.java
+END
+AbstractDataItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/intelliphoto/!svn/ver/2/IntellipixProj/src/com/intellipix/steganography/AbstractDataItem.java
+END
+DataOverlayAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/intelliphoto/!svn/ver/2/IntellipixProj/src/com/intellipix/steganography/DataOverlayAdapter.java
+END
+MimeTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/intelliphoto/!svn/ver/63/IntellipixProj/src/com/intellipix/steganography/MimeTypes.java
+END
+ByteProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/intelliphoto/!svn/ver/2/IntellipixProj/src/com/intellipix/steganography/ByteProvider.java
+END
+StringDataItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/intelliphoto/!svn/ver/20/IntellipixProj/src/com/intellipix/steganography/StringDataItem.java
+END
+DataItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/intelliphoto/!svn/ver/63/IntellipixProj/src/com/intellipix/steganography/DataItemFactory.java
+END
+LocationDataItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/intelliphoto/!svn/ver/62/IntellipixProj/src/com/intellipix/steganography/LocationDataItem.java
+END
+DataItemIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/intelliphoto/!svn/ver/2/IntellipixProj/src/com/intellipix/steganography/DataItemIds.java
+END
+AbstractDataItemInstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/intelliphoto/!svn/ver/2/IntellipixProj/src/com/intellipix/steganography/AbstractDataItemInstanceFactory.java
+END
+InstanceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/intelliphoto/!svn/ver/2/IntellipixProj/src/com/intellipix/steganography/InstanceFactory.java
+END
